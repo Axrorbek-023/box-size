@@ -1,7 +1,7 @@
 var elBox = document.querySelector('.box')
 
 function tepa(){
-    elBox.style.transform.translateY = ($('-100px'))
+    elBox.style.transform.translateY = '-100px'
     elBox.style.background = 'green'
     elBox.style.borderRadius = '10%'
     elBox.style.transition = '1.5s'
