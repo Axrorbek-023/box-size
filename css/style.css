@@ -35,26 +35,26 @@ a{
     align-items: center;
 }
 .btn1{
+    margin-top: 100px;
     padding: 10px 15px;
     background: green;
     border: none;
 }
 .btn2{
+    margin-top: 100px;
     padding: 10px 15px;
     background: red;
     border: none;
 }
 .btn3{
+    margin-top: 100px;
     padding: 10px 15px;
     background: yellow;
     border: none;
 }
 .btn4{
+    margin-top: 100px;
     padding: 10px 15px;
     background: blue;
     border: none;
-    /* transform: translateY(); */
-}
-.btn{
-    transition: all ease 1s;
 }
